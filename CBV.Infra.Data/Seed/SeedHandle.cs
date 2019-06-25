@@ -64,19 +64,17 @@ namespace CBV.Infra.Data.Seed
         private static List<Cashback> BuildListCashback()
         {
             var list = Cashback.ListEmpty();
-            var cashbackId = 1;
 
             foreach (var itemGenero in Enumerators.GetEnumDescriptions(typeof(GeneroEnum)))
             {
                 foreach (var itemDia in Enumerators.GetEnumDescriptions(typeof(DiaSemanaEnum)))
                 {
-                    var newObj = Cashback.BuildInitial(cashbackId, (GeneroEnum)itemGenero.Key);
+                    var newObj = Cashback.BuildInitial((GeneroEnum)itemGenero.Key);
 
                     newObj.DiaSemanaId = (DiaSemanaEnum)itemDia.Key;
                     newObj.Percentual = CashbackPercentual.Get(itemGenero.Key, itemDia.Key);
 
                     list.Add(newObj);
-                    cashbackId++;
                 }
             }
 

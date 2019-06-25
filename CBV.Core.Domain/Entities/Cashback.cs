@@ -11,11 +11,11 @@ namespace CBV.Core.Domain.Entities
         public decimal Percentual { get; set; }
 
         public static List<Cashback> ListEmpty() => new List<Cashback>();
-        public static Cashback BuildInitial(int id, GeneroEnum genero)
+        public static Cashback BuildInitial(GeneroEnum genero)
         {
             return new Cashback()
             {
-                CashbackId = id,
+                CashbackId = 0,
                 GeneroId = genero
             };
         }

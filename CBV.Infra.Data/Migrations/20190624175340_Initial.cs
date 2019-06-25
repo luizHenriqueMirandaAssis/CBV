@@ -58,7 +58,7 @@ namespace CBV.Infra.Data.Migrations
                     name: "Cashback",
                     columns: table => new
                     {
-                        CashbackId = table.Column<int>(nullable: false),
+                        CashbackId = table.Column<int>(nullable: false).Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
                         GeneroId = table.Column<int>(nullable: false),
                         DiaSemanaId = table.Column<int>(nullable: false),
                         Percentual = table.Column<decimal>(nullable: false)
