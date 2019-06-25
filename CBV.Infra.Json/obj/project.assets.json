@@ -766,11 +766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj",
+      "projectUniqueName": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj",
       "projectName": "CBV.Infra.Json",
-      "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj",
+      "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj",
       "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\CBV\\CBV.Infra.Json\\obj\\",
+      "outputPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Json\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -789,8 +789,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
-              "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
+            "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
             }
           }
         }

@@ -18,3 +18,17 @@ C:\source\repos\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Core.Application.
 C:\source\repos\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Core.Domain.dll
 C:\source\repos\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Core.Application.pdb
 C:\source\repos\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Core.Domain.pdb
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\obj\Debug\netcoreapp2.2\CBV.Infra.Data.csprojAssemblyReference.cache
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\obj\Debug\netcoreapp2.2\CBV.Infra.Data.csproj.CoreCompileInputs.cache
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\obj\Debug\netcoreapp2.2\CBV.Infra.Data.AssemblyInfoInputs.cache
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\obj\Debug\netcoreapp2.2\CBV.Infra.Data.AssemblyInfo.cs
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\obj\Debug\netcoreapp2.2\CBV.Infra.Data.dll
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\obj\Debug\netcoreapp2.2\CBV.Infra.Data.pdb
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Infra.Data.deps.json
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Infra.Data.dll
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Core.Application.dll
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Core.Domain.dll
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Core.Application.pdb
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Core.Domain.pdb
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\obj\Debug\netcoreapp2.2\CBV.Infra.Data.csproj.CopyComplete
+C:\source\repos\Cashback\CBV\CBV.Infra.Data\bin\Debug\netcoreapp2.2\CBV.Infra.Data.pdb

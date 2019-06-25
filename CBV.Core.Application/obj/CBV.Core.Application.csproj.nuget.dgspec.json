@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {}
+    "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {}
   },
   "projects": {
-    "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+    "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj",
+        "projectUniqueName": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj",
         "projectName": "CBV.Core.Application",
-        "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj",
+        "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj",
         "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\obj\\",
+        "outputPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj": {
-                "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj"
+              "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj": {
+                "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj": {
+    "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj",
+        "projectUniqueName": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj",
         "projectName": "CBV.Core.Domain",
-        "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj",
+        "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj",
         "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
-        "outputPath": "C:\\source\\repos\\CBV\\CBV.Core.Domain\\obj\\",
+        "outputPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

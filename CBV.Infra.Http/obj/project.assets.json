@@ -726,11 +726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj",
+      "projectUniqueName": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj",
       "projectName": "CBV.Infra.Http",
-      "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj",
+      "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj",
       "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\CBV\\CBV.Infra.Http\\obj\\",
+      "outputPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Http\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -749,8 +749,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
-              "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
+            "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
             }
           }
         }
