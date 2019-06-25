@@ -3628,11 +3628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj",
+      "projectUniqueName": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj",
       "projectName": "CBV.Infra.CrossCutting.IoC",
-      "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj",
+      "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj",
       "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.CrossCutting.IoC\\obj\\",
+      "outputPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.CrossCutting.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3651,20 +3651,20 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
-              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
+            "C:\\source\\repos\\Cashback2\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
             },
-            "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj": {
-              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj"
+            "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj"
             },
-            "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj": {
-              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj"
+            "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj"
             },
-            "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj": {
-              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj"
+            "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj"
             },
-            "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj": {
-              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj"
+            "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj"
             }
           }
         }

@@ -28,3 +28,17 @@ C:\source\repos\Cashback\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Core.
 C:\source\repos\Cashback\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Core.Domain.pdb
 C:\source\repos\Cashback\CBV\CBV.Infra.Spotify\obj\Debug\netcoreapp2.2\CBV.Infra.Spotify.csproj.CopyComplete
 C:\source\repos\Cashback\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Infra.Spotify.pdb
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Infra.Spotify.deps.json
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Infra.Spotify.dll
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Infra.Spotify.pdb
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Core.Application.dll
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Core.Domain.dll
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Core.Application.pdb
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\bin\Debug\netcoreapp2.2\CBV.Core.Domain.pdb
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\obj\Debug\netcoreapp2.2\CBV.Infra.Spotify.csprojAssemblyReference.cache
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\obj\Debug\netcoreapp2.2\CBV.Infra.Spotify.csproj.CoreCompileInputs.cache
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\obj\Debug\netcoreapp2.2\CBV.Infra.Spotify.AssemblyInfoInputs.cache
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\obj\Debug\netcoreapp2.2\CBV.Infra.Spotify.AssemblyInfo.cs
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\obj\Debug\netcoreapp2.2\CBV.Infra.Spotify.csproj.CopyComplete
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\obj\Debug\netcoreapp2.2\CBV.Infra.Spotify.dll
+C:\source\repos\Cashback2\CBV\CBV.Infra.Spotify\obj\Debug\netcoreapp2.2\CBV.Infra.Spotify.pdb

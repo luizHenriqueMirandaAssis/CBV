@@ -968,11 +968,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj",
+      "projectUniqueName": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj",
       "projectName": "CBV.Infra.Spotify",
-      "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj",
+      "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj",
       "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Spotify\\obj\\",
+      "outputPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Spotify\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -991,8 +991,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
-              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
+            "C:\\source\\repos\\Cashback2\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
             }
           }
         }

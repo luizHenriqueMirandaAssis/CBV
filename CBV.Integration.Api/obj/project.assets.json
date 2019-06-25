@@ -13218,11 +13218,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\Cashback\\CBV\\CBV.Integration.Api\\CBV.Integration.Api.csproj",
+      "projectUniqueName": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Integration.Api\\CBV.Integration.Api.csproj",
       "projectName": "CBV.Integration.Api",
-      "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Integration.Api\\CBV.Integration.Api.csproj",
+      "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Integration.Api\\CBV.Integration.Api.csproj",
       "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Integration.Api\\obj\\",
+      "outputPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Integration.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13241,11 +13241,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj": {
-              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj"
+            "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj"
             },
-            "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj": {
-              "projectPath": "C:\\source\\repos\\Cashback\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj"
+            "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj": {
+              "projectPath": "C:\\source\\repos\\Cashback2\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj"
             }
           }
         }

@@ -15,3 +15,11 @@ C:\source\repos\Cashback\CBV\CBV.Core.Domain\obj\Debug\netcoreapp2.2\CBV.Core.Do
 C:\source\repos\Cashback\CBV\CBV.Core.Domain\obj\Debug\netcoreapp2.2\CBV.Core.Domain.AssemblyInfo.cs
 C:\source\repos\Cashback\CBV\CBV.Core.Domain\obj\Debug\netcoreapp2.2\CBV.Core.Domain.dll
 C:\source\repos\Cashback\CBV\CBV.Core.Domain\obj\Debug\netcoreapp2.2\CBV.Core.Domain.pdb
+C:\source\repos\Cashback2\CBV\CBV.Core.Domain\bin\Debug\netcoreapp2.2\CBV.Core.Domain.deps.json
+C:\source\repos\Cashback2\CBV\CBV.Core.Domain\bin\Debug\netcoreapp2.2\CBV.Core.Domain.dll
+C:\source\repos\Cashback2\CBV\CBV.Core.Domain\bin\Debug\netcoreapp2.2\CBV.Core.Domain.pdb
+C:\source\repos\Cashback2\CBV\CBV.Core.Domain\obj\Debug\netcoreapp2.2\CBV.Core.Domain.csproj.CoreCompileInputs.cache
+C:\source\repos\Cashback2\CBV\CBV.Core.Domain\obj\Debug\netcoreapp2.2\CBV.Core.Domain.AssemblyInfoInputs.cache
+C:\source\repos\Cashback2\CBV\CBV.Core.Domain\obj\Debug\netcoreapp2.2\CBV.Core.Domain.AssemblyInfo.cs
+C:\source\repos\Cashback2\CBV\CBV.Core.Domain\obj\Debug\netcoreapp2.2\CBV.Core.Domain.dll
+C:\source\repos\Cashback2\CBV\CBV.Core.Domain\obj\Debug\netcoreapp2.2\CBV.Core.Domain.pdb
