@@ -1,0 +1,12 @@
+C:\source\repos\CBV\CBV.Core.Application\bin\Debug\netcoreapp2.2\CBV.Core.Application.deps.json
+C:\source\repos\CBV\CBV.Core.Application\bin\Debug\netcoreapp2.2\CBV.Core.Application.dll
+C:\source\repos\CBV\CBV.Core.Application\bin\Debug\netcoreapp2.2\CBV.Core.Application.pdb
+C:\source\repos\CBV\CBV.Core.Application\bin\Debug\netcoreapp2.2\CBV.Core.Domain.dll
+C:\source\repos\CBV\CBV.Core.Application\bin\Debug\netcoreapp2.2\CBV.Core.Domain.pdb
+C:\source\repos\CBV\CBV.Core.Application\obj\Debug\netcoreapp2.2\CBV.Core.Application.csprojAssemblyReference.cache
+C:\source\repos\CBV\CBV.Core.Application\obj\Debug\netcoreapp2.2\CBV.Core.Application.csproj.CoreCompileInputs.cache
+C:\source\repos\CBV\CBV.Core.Application\obj\Debug\netcoreapp2.2\CBV.Core.Application.AssemblyInfoInputs.cache
+C:\source\repos\CBV\CBV.Core.Application\obj\Debug\netcoreapp2.2\CBV.Core.Application.AssemblyInfo.cs
+C:\source\repos\CBV\CBV.Core.Application\obj\Debug\netcoreapp2.2\CBV.Core.Application.csproj.CopyComplete
+C:\source\repos\CBV\CBV.Core.Application\obj\Debug\netcoreapp2.2\CBV.Core.Application.dll
+C:\source\repos\CBV\CBV.Core.Application\obj\Debug\netcoreapp2.2\CBV.Core.Application.pdb

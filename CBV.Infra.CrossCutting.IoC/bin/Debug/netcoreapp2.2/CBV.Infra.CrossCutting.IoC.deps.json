@@ -1,0 +1,194 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "47f516093eec90c0d69cb69051b280bd11939b34"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CBV.Infra.CrossCutting.IoC/1.0.0": {
+        "dependencies": {
+          "CBV.Core.Application": "1.0.0",
+          "CBV.Infra.Data": "1.0.0",
+          "CBV.Infra.Http": "1.0.0",
+          "CBV.Infra.Json": "1.0.0",
+          "CBV.Infra.Spotify": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0"
+        },
+        "runtime": {
+          "CBV.Infra.CrossCutting.IoC.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "CBV.Core.Application/1.0.0": {
+        "dependencies": {
+          "CBV.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CBV.Core.Application.dll": {}
+        }
+      },
+      "CBV.Core.Domain/1.0.0": {
+        "runtime": {
+          "CBV.Core.Domain.dll": {}
+        }
+      },
+      "CBV.Infra.Data/1.0.0": {
+        "dependencies": {
+          "CBV.Core.Application": "1.0.0",
+          "CBV.Core.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "2.2.0.0",
+          "Microsoft.EntityFrameworkCore.Relational": "2.2.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "2.2.0.0"
+        },
+        "runtime": {
+          "CBV.Infra.Data.dll": {}
+        }
+      },
+      "CBV.Infra.Http/1.0.0": {
+        "dependencies": {
+          "CBV.Core.Application": "1.0.0"
+        },
+        "runtime": {
+          "CBV.Infra.Http.dll": {}
+        }
+      },
+      "CBV.Infra.Json/1.0.0": {
+        "dependencies": {
+          "CBV.Core.Application": "1.0.0",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "CBV.Infra.Json.dll": {}
+        }
+      },
+      "CBV.Infra.Spotify/1.0.0": {
+        "dependencies": {
+          "CBV.Core.Application": "1.0.0",
+          "Microsoft.Extensions.Options": "2.2.0.0"
+        },
+        "runtime": {
+          "CBV.Infra.Spotify.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Reference/2.2.0.0": {
+        "runtime": {
+          "Microsoft.EntityFrameworkCore.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Relational.Reference/2.2.0.0": {
+        "runtime": {
+          "Microsoft.EntityFrameworkCore.Relational.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.SqlServer.Reference/2.2.0.0": {
+        "runtime": {
+          "Microsoft.EntityFrameworkCore.SqlServer.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options.Reference/2.2.0.0": {
+        "runtime": {
+          "Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18315"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CBV.Infra.CrossCutting.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-f9hstgjVmr6rmrfGSpfsVOl2irKAgr1QjrSi3FgnS7kulxband50f2brRLwySAQTADPZeTdow0mpSMcoAdadCw==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/2.2.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "CBV.Core.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CBV.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CBV.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CBV.Infra.Http/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CBV.Infra.Json/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CBV.Infra.Spotify/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.Reference/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.Relational.Reference/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.SqlServer.Reference/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Options.Reference/2.2.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

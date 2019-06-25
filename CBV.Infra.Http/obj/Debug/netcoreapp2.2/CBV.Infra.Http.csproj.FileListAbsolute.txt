@@ -1,0 +1,14 @@
+C:\source\repos\CBV\CBV.Infra.Http\bin\Debug\netcoreapp2.2\CBV.Infra.Http.deps.json
+C:\source\repos\CBV\CBV.Infra.Http\bin\Debug\netcoreapp2.2\CBV.Infra.Http.dll
+C:\source\repos\CBV\CBV.Infra.Http\bin\Debug\netcoreapp2.2\CBV.Infra.Http.pdb
+C:\source\repos\CBV\CBV.Infra.Http\bin\Debug\netcoreapp2.2\CBV.Core.Application.dll
+C:\source\repos\CBV\CBV.Infra.Http\bin\Debug\netcoreapp2.2\CBV.Core.Domain.dll
+C:\source\repos\CBV\CBV.Infra.Http\bin\Debug\netcoreapp2.2\CBV.Core.Application.pdb
+C:\source\repos\CBV\CBV.Infra.Http\bin\Debug\netcoreapp2.2\CBV.Core.Domain.pdb
+C:\source\repos\CBV\CBV.Infra.Http\obj\Debug\netcoreapp2.2\CBV.Infra.Http.csprojAssemblyReference.cache
+C:\source\repos\CBV\CBV.Infra.Http\obj\Debug\netcoreapp2.2\CBV.Infra.Http.csproj.CoreCompileInputs.cache
+C:\source\repos\CBV\CBV.Infra.Http\obj\Debug\netcoreapp2.2\CBV.Infra.Http.AssemblyInfoInputs.cache
+C:\source\repos\CBV\CBV.Infra.Http\obj\Debug\netcoreapp2.2\CBV.Infra.Http.AssemblyInfo.cs
+C:\source\repos\CBV\CBV.Infra.Http\obj\Debug\netcoreapp2.2\CBV.Infra.Http.csproj.CopyComplete
+C:\source\repos\CBV\CBV.Infra.Http\obj\Debug\netcoreapp2.2\CBV.Infra.Http.dll
+C:\source\repos\CBV\CBV.Infra.Http\obj\Debug\netcoreapp2.2\CBV.Infra.Http.pdb

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "CBV.Infra.Http/1.0.0": {
+        "dependencies": {
+          "CBV.Core.Application": "1.0.0"
+        },
+        "runtime": {
+          "CBV.Infra.Http.dll": {}
+        }
+      },
+      "CBV.Core.Application/1.0.0": {
+        "dependencies": {
+          "CBV.Core.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CBV.Core.Application.dll": {}
+        }
+      },
+      "CBV.Core.Domain/1.0.0": {
+        "runtime": {
+          "CBV.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CBV.Infra.Http/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CBV.Core.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CBV.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\source\\repos\\CBV\\CBV.Integration.Api\\CBV.Integration.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj",
+        "projectName": "CBV.Core.Application",
+        "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luiz.assis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj",
+        "projectName": "CBV.Core.Domain",
+        "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\CBV\\CBV.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luiz.assis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\source\\repos\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj",
+        "projectName": "CBV.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\CBV\\CBV.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luiz.assis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
+              },
+              "C:\\source\\repos\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj"
+              },
+              "C:\\source\\repos\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj"
+              },
+              "C:\\source\\repos\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj"
+              },
+              "C:\\source\\repos\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\source\\repos\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj",
+        "projectName": "CBV.Infra.Data",
+        "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\CBV\\CBV.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luiz.assis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
+              },
+              "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Domain\\CBV.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\source\\repos\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj",
+        "projectName": "CBV.Infra.Http",
+        "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Http\\CBV.Infra.Http.csproj",
+        "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\CBV\\CBV.Infra.Http\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luiz.assis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\source\\repos\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj",
+        "projectName": "CBV.Infra.Json",
+        "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Json\\CBV.Infra.Json.csproj",
+        "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\CBV\\CBV.Infra.Json\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luiz.assis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\source\\repos\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj",
+        "projectName": "CBV.Infra.Spotify",
+        "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Spotify\\CBV.Infra.Spotify.csproj",
+        "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\CBV\\CBV.Infra.Spotify\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luiz.assis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Core.Application\\CBV.Core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\source\\repos\\CBV\\CBV.Integration.Api\\CBV.Integration.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\source\\repos\\CBV\\CBV.Integration.Api\\CBV.Integration.Api.csproj",
+        "projectName": "CBV.Integration.Api",
+        "projectPath": "C:\\source\\repos\\CBV\\CBV.Integration.Api\\CBV.Integration.Api.csproj",
+        "packagesPath": "C:\\Users\\luiz.assis\\.nuget\\packages\\",
+        "outputPath": "C:\\source\\repos\\CBV\\CBV.Integration.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\luiz.assis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\source\\repos\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.CrossCutting.IoC\\CBV.Infra.CrossCutting.IoC.csproj"
+              },
+              "C:\\source\\repos\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj": {
+                "projectPath": "C:\\source\\repos\\CBV\\CBV.Infra.Data\\CBV.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Api.Analyzers": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
